@@ -1,4 +1,4 @@
-# Hi there, I'm Rakesh Rausha! 👋
+# Hi there, I'm Hemant Kumar! 👋
 
 ### Aspiring Software Developer | AI Enthusiast
 
@@ -78,8 +78,8 @@ Motivated Computer Science student with a passion for software development and A
 
 ## 🌐 Connect with me:
 
-- 📧 Email: rakeshraushansingh1617@gmail.com
+- 📧 Email: hemantrajaur@gmail.com
 - 💼 LinkedIn: [Rakesh Raushan](https://www.linkedin.com/in/rakesh-raushan-7405ab327)
-- 🐙 GitHub: [Rakesh161rausahn](https://github.com/Rakesh161rausahn)
+- 🐙 GitHub: [Rakesh161rausahn](https://github.com/Hemant230101120220)
 - 💻 Portfolio: [Rakesh Raushan's Portfolio](https://rakeshraushan16.github.io/rakeshraushan/)
 - 📸 Instagram: [Rakesh Raushan Singh](https://www.instagram.com/_rakesh_raushan_singh/?utm_source=ig_web_button_share_sheet)
