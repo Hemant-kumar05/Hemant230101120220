@@ -70,9 +70,9 @@ Motivated Computer Science student with a passion for software development and A
 
 ## 📊 GitHub Stats
 
-![Rakesh Raushan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh161rausahn&show_icons=true&theme=dark)
+![Hemant Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemant230101120220&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh161rausahn&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant230101120220&layout=compact&theme=dark)
 
 ---
 
