@@ -20,7 +20,7 @@ Motivated Computer Science student with a passion for software development and A
 - 👯 I’m looking to collaborate on *open-source projects related to AI, web development, or data science.*
 - 🤔 I’m looking for help with *optimizing algorithms for large datasets and understanding complex system architectures.*
 - 💬 Ask me about *Python programming, web development, or anything related to computer science!*
-- 📫 How to reach me: *You can reach me via email at rakeshraushansingh1617@gmail.com or connect with me on LinkedIn.*
+- 📫 How to reach me: *You can reach me via email at hemantrajaur@gmail.com or connect with me on LinkedIn.*
 - ⚡ Fun fact: *I enjoy solving complex coding challenges in my free time and exploring new technologies.*
 
 ---
@@ -79,7 +79,7 @@ Motivated Computer Science student with a passion for software development and A
 ## 🌐 Connect with me:
 
 - 📧 Email: hemantrajaur@gmail.com
-- 💼 LinkedIn: [Rakesh Raushan](https://www.linkedin.com/in/rakesh-raushan-7405ab327)
-- 🐙 GitHub: [Rakesh161rausahn](https://github.com/Hemant230101120220)
-- 💻 Portfolio: [Rakesh Raushan's Portfolio](https://rakeshraushan16.github.io/rakeshraushan/)
-- 📸 Instagram: [Rakesh Raushan Singh](https://www.instagram.com/_rakesh_raushan_singh/?utm_source=ig_web_button_share_sheet)
+- 💼 LinkedIn: [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-75b83a2a6?)
+- 🐙 GitHub: [Hemant kumar](https://github.com/Hemant230101120220)
+- 💻 Portfolio: [Hemant Kumar's Portfolio](https://rakeshraushan16.github.io/rakeshraushan/)
+- 📸 Instagram: [Hemant Kumar](https://www.instagram.com/hemantrajaur?igsh=MXdlZ2MyZTZhNTYydg==)
