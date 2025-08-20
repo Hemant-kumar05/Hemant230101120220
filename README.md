@@ -80,6 +80,6 @@ Motivated Computer Science student with a passion for software development and A
 
 - 📧 Email: hemantrajaur@gmail.com
 - 💼 LinkedIn: [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-75b83a2a6?)
-- 🐙 GitHub: [Hemant kumar](https://github.com/Hemant230101120220)
+- 🐙 GitHub: [Hemant kumar](https://github.com/Hemant-kumar05)
 - 💻 Portfolio: [Hemant Kumar's Portfolio](https://hemant-kumar05.github.io/-Portfolio/)
 - 📸 Instagram: [Hemant Kumar](https://www.instagram.com/hemantrajaur?igsh=MXdlZ2MyZTZhNTYydg==)
